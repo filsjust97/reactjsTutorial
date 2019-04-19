@@ -1,0 +1,25 @@
+{
+  "name": "reactjstutorial",
+  "version": "0.0.1",
+  "description": "A ReactJS Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filsjust97/reactjsTutorial.git"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    "Javascript",
+    "Tutorial"
+  ],
+  "author": "Filipe Lourenço",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filsjust97/reactjsTutorial/issues"
+  },
+  "homepage": "https://github.com/filsjust97/reactjsTutorial#readme"
+}
